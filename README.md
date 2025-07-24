@@ -222,3 +222,5 @@ Render начнет процесс: скачает ваш код, выполни
 
 Надеюсь, аналогии с Node.js были полезны. Если какой-то шаг остался непонятным, смело спрашивайте
 
+# Deploy Render.com
+link: https://python-hello-world-tkr2.onrender.com/

@@ -15,8 +15,8 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     # 4. Функция возвращает строку, которая и будет ответом сервера
-    # Аналог: res.send('Hello World');
-    return 'Hello World'
+    # Аналог: res.send('Hello World!');
+    return 'Hello World!'
 
 # 5. Эта конструкция позволяет запустить сервер напрямую через 'python app.py'
 # Код внутри этого if не выполнится, если файл будет импортирован в другой файл.
